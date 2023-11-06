@@ -1,5 +1,5 @@
 # Data Analysis Projects
-A repository for various data analysis projects, showcasing analysis, insights, and visualizations.
+A repository for data analysis projects, showcasing analysis, insights, and visualizations.
 
 ## Overview
 
